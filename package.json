@@ -1,0 +1,31 @@
+{
+  "name": "vkdoc-cli",
+  "version": "0.0.1",
+  "description": "This is an utility tool that helps to convert documentation into VK Docs format.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "lint": "eslint",
+    "format": "prettier --write src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/georgiy-belyanin/tarantool-vkdoc"
+  },
+  "author": "Georgiy Belyanin",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "@eslint/js": "^9.27.0",
+    "@eslint/json": "^0.12.0",
+    "@eslint/markdown": "^6.4.0",
+    "@types/node": "^22.15.21",
+    "@types/yargs": "^17.0.33",
+    "eslint": "^9.27.0",
+    "globals": "^16.2.0",
+    "prettier": "^3.5.3",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.32.1",
+    "uuid": "^11.1.0",
+    "yargs": "^17.7.2"
+  }
+}
