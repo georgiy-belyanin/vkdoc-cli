@@ -6,8 +6,8 @@ using [Pandoc](https://github.com/jgm/pandoc).
 
 ## Dependencies
 
-* [Node](https://nodejs.org/en)
-* [Pandoc](https://github.com/jgm/pandoc)
+- [Node](https://nodejs.org/en)
+- [Pandoc](https://github.com/jgm/pandoc)
 
 ## Building & using
 
